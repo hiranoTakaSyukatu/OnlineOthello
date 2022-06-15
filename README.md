@@ -1,0 +1,2 @@
+# OnlineOthello
+MVVMパターンを使ったシンプルなオセロ
